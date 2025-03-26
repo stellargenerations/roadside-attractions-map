@@ -110,7 +110,7 @@
   {
     "id": 13,
     "name": "Foamhenge",
-    "location": "Centreville, VA", // Note: Moved from Natural Bridge
+    "location": "Centreville, VA",
     "coordinates": [38.8395, -77.4770],
     "description": "A full-size replica of Stonehenge made entirely out of styrofoam. Currently located at Cox Farms.",
     "state": "VA",
@@ -120,7 +120,7 @@
     "id": 14,
     "name": "Enchanted Highway",
     "location": "Regent, ND",
-    "coordinates": [46.4228, -102.5477], // Start point near Regent
+    "coordinates": [46.4228, -102.5477],
     "description": "A 32-mile stretch of highway featuring several massive scrap metal sculptures.",
     "state": "ND",
     "categories": ["Art & Sculpture"]
