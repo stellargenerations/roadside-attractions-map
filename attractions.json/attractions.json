@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "Cadillac Ranch",
+    "location": "Amarillo, TX",
+    "coordinates": [35.1873, -101.9885],
+    "description": "An art installation featuring ten half-buried Cadillac cars, nose-down in the dirt, encouraging graffiti.",
+    "state": "TX",
+    "categories": ["Art & Sculpture"]
+  },
+  {
+    "id": 2,
+    "name": "The World's Largest Ball of Twine (made by one man)",
+    "location": "Darwin, MN",
+    "coordinates": [45.0948, -94.4081],
+    "description": "A massive ball of sisal twine rolled by Francis A. Johnson over 29 years.",
+    "state": "MN",
+    "categories": ["Unusual Buildings"]
+  },
+  {
+    "id": 3,
+    "name": "Carhenge",
+    "location": "Alliance, NE",
+    "coordinates": [42.1365, -102.8591],
+    "description": "A replica of England's Stonehenge constructed from vintage American cars.",
+    "state": "NE",
+    "categories": ["Art & Sculpture", "Unusual Buildings"]
+  },
+  {
+    "id": 4,
+    "name": "Wall Drug Store",
+    "location": "Wall, SD",
+    "coordinates": [43.9925, -102.2418],
+    "description": "Famous for offering free ice water, now a sprawling complex with shops, eateries, and quirky attractions including a giant dinosaur.",
+    "state": "SD",
+    "categories": ["Historical", "Food Related"]
+  },
+  {
+    "id": 5,
+    "name": "Salvation Mountain",
+    "location": "Niland, CA",
+    "coordinates": [33.2542, -115.5168],
+    "description": "A large-scale folk art installation created by Leonard Knight, made of adobe, straw, and thousands of gallons of paint.",
+    "state": "CA",
+    "categories": ["Art & Sculpture", "Unusual Buildings"]
+  },
+  {
+    "id": 6,
+    "name": "Lucy the Elephant",
+    "location": "Margate City, NJ",
+    "coordinates": [39.3353, -74.4857],
+    "description": "A six-story elephant-shaped building constructed in 1881, now a National Historic Landmark.",
+    "state": "NJ",
+    "categories": ["Unusual Buildings", "Historical"]
+  },
+  {
+    "id": 7,
+    "name": "Hole N' The Rock",
+    "location": "Moab, UT",
+    "coordinates": [38.4530, -109.4160],
+    "description": "A 5,000 square foot home carved out of a massive sandstone rock formation.",
+    "state": "UT",
+    "categories": ["Unusual Buildings", "Historical"]
+  },
+  {
+    "id": 8,
+    "name": "The Fremont Troll",
+    "location": "Seattle, WA",
+    "coordinates": [47.6510, -122.3474],
+    "description": "A colossal sculpture of a troll crushing a Volkswagen Beetle, located under the George Washington Memorial Bridge.",
+    "state": "WA",
+    "categories": ["Art & Sculpture"]
+  },
+  {
+    "id": 9,
+    "name": "Prada Marfa",
+    "location": "Valentine, TX",
+    "coordinates": [30.5696, -104.5216],
+    "description": "A permanently installed sculpture resembling a Prada store, located in the middle of the desert.",
+    "state": "TX",
+    "categories": ["Art & Sculpture"]
+  },
+  {
+    "id": 10,
+    "name": "World's Largest Ketchup Bottle",
+    "location": "Collinsville, IL",
+    "coordinates": [38.6862, -90.0087],
+    "description": "A 170-foot tall water tower designed to look like a Brooks Ketchup bottle.",
+    "state": "IL",
+    "categories": ["Unusual Buildings", "Food Related"]
+  },
+  {
+    "id": 11,
+    "name": "Cabazon Dinosaurs",
+    "location": "Cabazon, CA",
+    "coordinates": [33.9209, -116.7700],
+    "description": "Two giant dinosaur sculptures, 'Dinny' the Brontosaurus and 'Mr. Rex' the T-Rex.",
+    "state": "CA",
+    "categories": ["Unusual Buildings", "Art & Sculpture"]
+  },
+  {
+    "id": 12,
+    "name": "South of the Border",
+    "location": "Hamer, SC",
+    "coordinates": [34.4960, -79.3115],
+    "description": "A sprawling tourist complex with a Mexican theme, featuring shops, restaurants, amusement rides, and a giant sombrero tower.",
+    "state": "SC",
+    "categories": ["Unusual Buildings", "Food Related"]
+  },
+  {
+    "id": 13,
+    "name": "Foamhenge",
+    "location": "Centreville, VA", // Note: Moved from Natural Bridge
+    "coordinates": [38.8395, -77.4770],
+    "description": "A full-size replica of Stonehenge made entirely out of styrofoam. Currently located at Cox Farms.",
+    "state": "VA",
+    "categories": ["Art & Sculpture", "Unusual Buildings"]
+  },
+  {
+    "id": 14,
+    "name": "Enchanted Highway",
+    "location": "Regent, ND",
+    "coordinates": [46.4228, -102.5477], // Start point near Regent
+    "description": "A 32-mile stretch of highway featuring several massive scrap metal sculptures.",
+    "state": "ND",
+    "categories": ["Art & Sculpture"]
+  },
+  {
+    "id": 15,
+    "name": "The Blue Whale of Catoosa",
+    "location": "Catoosa, OK",
+    "coordinates": [36.1912, -95.7318],
+    "description": "A large, smiling blue whale structure built on a pond, originally as an anniversary gift.",
+    "state": "OK",
+    "categories": ["Unusual Buildings", "Art & Sculpture"]
+  },
+  {
+    "id": 16,
+    "name": "Corn Palace",
+    "location": "Mitchell, SD",
+    "coordinates": [43.7146, -98.0273],
+    "description": "A multi-purpose arena decorated annually with murals and designs made from corn and other grains.",
+    "state": "SD",
+    "categories": ["Unusual Buildings", "Art & Sculpture"]
+  },
+  {
+    "id": 17,
+    "name": "Big Texan Steak Ranch",
+    "location": "Amarillo, TX",
+    "coordinates": [35.1938, -101.7497],
+    "description": "Home of the free 72 oz. steak challenge (if eaten in under an hour). Features a motel and kitschy decor.",
+    "state": "TX",
+    "categories": ["Food Related"]
+  },
+   {
+    "id": 18,
+    "name": "Weeki Wachee Springs State Park",
+    "location": "Spring Hill, FL",
+    "coordinates": [28.5180, -82.5761],
+    "description": "Famous for its underwater mermaid shows in a natural spring.",
+    "state": "FL",
+    "categories": ["Nature", "Historical"]
+  },
+  {
+    "id": 19,
+    "name": "Desert of Maine",
+    "location": "Freeport, ME",
+    "coordinates": [43.8460, -70.1485],
+    "description": "A 40-acre expanse of glacial silt resembling a desert, incongruously located in Maine.",
+    "state": "ME",
+    "categories": ["Nature", "Unusual Buildings"]
+  },
+  {
+    "id": 20,
+    "name": "Bishop Castle",
+    "location": "Rye, CO",
+    "coordinates": [37.9250, -105.0911],
+    "description": "An elaborate, ornate stone and iron castle built single-handedly by Jim Bishop over decades.",
+    "state": "CO",
+    "categories": ["Unusual Buildings", "Art & Sculpture"]
+  },
+  {
+    "id": 21,
+    "name": "The Thing?",
+    "location": "Dragoon, AZ",
+    "coordinates": [32.0375, -110.0550],
+    "description": "A mysterious roadside attraction advertised for miles with billboards asking 'What is The Thing?'. Housed in a dedicated museum.",
+    "state": "AZ",
+    "categories": ["Unusual Buildings", "Historical"]
+  },
+  {
+    "id": 22,
+    "name": "World's Largest Pistachio",
+    "location": "Alamogordo, NM",
+    "coordinates": [32.9941, -105.9702],
+    "description": "A 30-foot tall sculpture dedicated to the founder of McGinn's Pistachio Tree Ranch.",
+    "state": "NM",
+    "categories": ["Art & Sculpture", "Food Related"]
+  },
+  {
+    "id": 23,
+    "name": "Dog Bark Park Inn",
+    "location": "Cottonwood, ID",
+    "coordinates": [46.0770, -116.3482],
+    "description": "A bed & breakfast inn shaped like a giant beagle named Sweet Willy.",
+    "state": "ID",
+    "categories": ["Unusual Buildings", "Art & Sculpture"]
+  },
+  {
+    "id": 24,
+    "name": "Dinosaur Land",
+    "location": "White Post, VA",
+    "coordinates": [39.0311, -78.1911],
+    "description": "A park filled with over 50 large fiberglass dinosaur models.",
+    "state": "VA",
+    "categories": ["Art & Sculpture", "Unusual Buildings"]
+  },
+  {
+    "id": 25,
+    "name": "Ave Maria Grotto",
+    "location": "Cullman, AL",
+    "coordinates": [34.1701, -86.8615],
+    "description": "Features 125 miniature replicas of famous religious structures and landmarks, built by a Benedictine monk.",
+    "state": "AL",
+    "categories": ["Art & Sculpture", "Historical", "Unusual Buildings"]
+  }
+]

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>U.S. Roadside Attractions Map</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin=""/>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>U.S. Roadside Attractions Interactive Map</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Attractions Map</li>
+            </ol>
+        </nav>
+    </header>
+
+    <main>
+        <section class="filters-container">
+            <h2>Filter Attractions</h2>
+            <div class="filter-controls">
+                <div class="filter-group">
+                    <label for="category-filter">Filter by Category:</label>
+                    <select id="category-filter">
+                        <option value="all">All Categories</option>
+                        </select>
+                </div>
+                <div class="filter-group">
+                    <label for="state-filter">Filter by State:</label>
+                    <select id="state-filter">
+                        <option value="all">All States</option>
+                        </select>
+                </div>
+            </div>
+        </section>
+
+        <section id="map-container">
+            <h2>Map View</h2>
+            <div id="map"></div>
+            <p id="map-error" class="error-message" style="display: none;">Error loading map tiles. Please check your internet connection or try again later.</p>
+        </section>
+
+        <section id="list-container">
+            <h2>List View</h2>
+            <div id="attraction-list" class="attraction-list-grid">
+                <p id="no-results" style="display: none;">No attractions match the current filters.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Your Name/Project Name. Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors.</p>
+    </footer>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""></script>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
